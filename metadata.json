@@ -1,0 +1,8 @@
+{
+  "name": "LapPrice AI",
+  "description": "A smart laptop price prediction and analytics dashboard powered by Gemini 2.5 Flash and real-world data.",
+  "dependencies": {
+    "lucide-react": "^0.263.1"
+  },
+  "requestFramePermissions": []
+}
